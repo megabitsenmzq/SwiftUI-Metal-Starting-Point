@@ -1,4 +1,4 @@
-# SwiftUI Metal Starting Point
+# SwiftUI Metal Shader Starting Point
 A template to kick start your SwiftUI Metal project.
 
 ![screenshot1](assets/screenshot1.png)
